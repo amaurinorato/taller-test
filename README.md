@@ -1,4 +1,4 @@
-Main method: Main.java
+Main method: [Main.java](https://github.com/amaurinorato/taller-test/blob/d1f47c9c71c5645b77815487b2a97f9f9fea3e10/src/Main.java)
 
 Title: Payment Statistics Calculator
 
